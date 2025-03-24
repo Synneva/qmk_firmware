@@ -24,7 +24,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
  */
 #include <stdint.h>
 #include <stdbool.h>
-#include <avr/io.h>
+//#include <avr/io.h>
 #include "wait.h"
 #include "action_layer.h"
 #include "print.h"

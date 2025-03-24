@@ -1,1 +1,2 @@
 DEFAULT_FOLDER = crkbd/rev1
+BOOTLOADER = rp2040
